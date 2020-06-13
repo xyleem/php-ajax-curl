@@ -1,5 +1,5 @@
 <?php
- include "cctek_config.php";
+include "cctek_config.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -317,4 +317,4 @@ $(document).on('click','#btn-add',function(e) {
 	});
 </script>
 </body>
-</html>    
+</html>  
